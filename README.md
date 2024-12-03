@@ -1,7 +1,8 @@
-# deep_learning
+# deep_learning repo
 
-Training on Cifar-10 
-ResNet 50
-AlexNet 
+Starting off simple CIFAR-10 and CNN 
 
-CNN trained on WISDM dataset for HAR task
+The main focus is Blood Pressure estimation using different machine and deep learning models.
+The Dataset used: MIMIC-II/MIMIC-III/MIMIC-IV
+
+Raw data and Feature Engineered data
